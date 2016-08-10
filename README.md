@@ -1,6 +1,6 @@
 # Checking reservation.gov for campsite availability, and notifying via email.
 
-I based this on https://github.com/bri-bri/yosemite-camping but edited because the code on github didn't work for me (looks like recreation.gov changed some things on their side), and then added email notifications via gmail.
+I based this on https://github.com/bri-bri/yosemite-camping but edited because the code on github didn't work for me (looks like recreation.gov changed some things on their side), and then added email notifications via gmail, mostly copy/pasting code snippets I found online.
 
 Keep in mind that this was my first time looking at Python, and I really have next to no experience with web stuff. Any comments or changes welcome. 
 
